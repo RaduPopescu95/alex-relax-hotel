@@ -19,16 +19,13 @@ const Main = () => {
   return (
     <>
       <header className="header-area header-three">
-        <div className="header-top second-header d-none d-md-block">
+        {/* <div className="header-top second-header d-none d-md-block">
           <div className="container">
             <div className="row align-items-center">
               <div className="col-lg-10 col-md-10 d-none d-lg-block">
                 <div className="header-cta">
                   <ul>
-                    {/* <li>
-                                            <i className="far fa-clock"></i>
-                                            <span>Mon - Fri: 9:00 - 19:00/ Closed on Weekends</span>
-                                        </li> */}
+                
                     <li>
                       <i className="far fa-mobile"></i>
                       <strong>+40 787999323</strong>
@@ -56,7 +53,7 @@ const Main = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
         <div id="header-sticky" className="menu-area">
           <div className="container">
             <div className="second-menu">

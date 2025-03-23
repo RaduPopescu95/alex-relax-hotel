@@ -45,7 +45,7 @@ const Main = () => {
                                         <li><Link to="/">Hotel</Link></li>
                                         <li><Link to="/about">Despre noi</Link></li>
                                         <li><Link to="/contact">Contact</Link></li>
-                                        <li><Link to="/blog">Blog</Link></li>
+                                     
                                     </ul>
                                 </div>
                             </div>

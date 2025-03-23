@@ -1898,6 +1898,7 @@ line-height: 30px;
 	background: transparent;
 }
 .s-about-content p {
+    text-align: justify;
 	margin-bottom: 15px;
 }
 .about-content strong{
@@ -11212,3 +11213,8 @@ color: #fff;
 .mobile-menu {
     display: none;
 }
+
+.justify-text {
+    text-align: justify !important;
+  }
+  
