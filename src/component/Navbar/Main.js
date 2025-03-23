@@ -84,8 +84,8 @@ const Main = () => {
                         <li className="has-sub">
                           <Link to="/room">Camere</Link>
                           {/* <ul>
-                                                        <li> <Link to="/room">Our Rooms</Link></li>
-                                                        <li> <Link to="/room-details">Rooms Details</Link></li>
+                                                        <li> <Link to="#">Our Rooms</Link></li>
+                                                        <li> <Link to="#">Rooms Details</Link></li>
                                                     </ul> */}
                         </li>
                         <li className="has-sub">
@@ -124,7 +124,7 @@ const Main = () => {
                   </div>
                 </div>
                 <div className="col-xl-2 col-lg-2 d-none d-lg-block">
-                  <Link to="/room" className="top-btn mt-10 mb-10">
+                  <Link to="#" className="top-btn mt-10 mb-10">
                     Rezervă
                   </Link>
                 </div>
@@ -176,8 +176,8 @@ const Main = () => {
                             <li className="has-sub">
                               <Link to="/room">Camere</Link>
                               {/* <ul style={{ display: show1 ? "block" : "none" }}>
-                                                            <li> <Link to="/room">Our Rooms</Link></li>
-                                                            <li> <Link to="/room-details">Rooms Details</Link></li>
+                                                            <li> <Link to="#">Our Rooms</Link></li>
+                                                            <li> <Link to="#">Rooms Details</Link></li>
                                                         </ul> */}
                             </li>
                             <li className="has-sub">

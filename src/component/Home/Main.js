@@ -500,7 +500,7 @@ const Main = () => {
                                             <li><Link to="/contact">Rezervă acum</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">Cameră dublă standard</Link></h4>    
+                                    <h4><Link to="#">Cameră dublă standard</Link></h4>    
                                     <p className="justify-text">Dotată cu un pat dublu confortabil și lenjerii curate, camera dublă standard vă asigură un somn odihnitor. Cu un design simplu, oferă un mediu primitor și relaxant pentru oaspeți.</p>
                                     <div className="icon">
                                         <ul>
@@ -532,7 +532,7 @@ const Main = () => {
                                             <li><Link to="/contact">Rezervă acum</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">Cameră dublă superioară</Link></h4>    
+                                    <h4><Link to="#">Cameră dublă superioară</Link></h4>    
                                     <p className="justify-text">Dotată cu un pat dublu mare și confortabil, lenjerii luxoase și perne moi, camera dublă superioară vă va oferi o experiență de somn odihnitoare și plăcută.</p>
                                     <div className="icon">
                                         <ul>
@@ -564,7 +564,7 @@ const Main = () => {
                                             <li><Link to="/contact">Rezervă acum</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">Camera dublă cu balcon</Link></h4>    
+                                    <h4><Link to="#">Camera dublă cu balcon</Link></h4>    
                                     <p className="justify-text">Camera dublă cu balcon oferă o experiență unică. Dotată cu un pat dublu confortabil, această cameră dispune de un balcon privat, unde vă puteți bucura de priveliști spectaculoase. </p>
                                     <div className="icon">
                                         <ul>
@@ -596,7 +596,7 @@ const Main = () => {
                                             <li><Link to="/contact">Rezervă acum</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">Cameră dublă delux</Link></h4>    
+                                    <h4><Link to="#">Cameră dublă delux</Link></h4>    
                                    <p className="justify-text">Camera dublă de lux este o alegere perfectă pentru cei care doresc să se bucure de un nivel superior de confort și eleganță. Această cameră rafinată oferă o experiență de cazare deosebită.</p>
                                     <div className="icon">
                                         <ul>

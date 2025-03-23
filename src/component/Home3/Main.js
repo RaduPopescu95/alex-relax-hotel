@@ -153,10 +153,10 @@ return (
                                     </li>
                                     <li><Link to="/about">About</Link></li>        
                                     <li className="has-sub">
-                                        <Link to="/room">our rooms</Link>
+                                        <Link to="#">our rooms</Link>
                                         <ul>													
-                                            <li> <Link to="/room">Our Rooms</Link></li>
-                                            <li> <Link to="/room-details">Rooms Details</Link></li>
+                                            <li> <Link to="#">Our Rooms</Link></li>
+                                            <li> <Link to="#">Rooms Details</Link></li>
                                         </ul>
                                     </li>     
                                     <li className="has-sub">
@@ -213,10 +213,10 @@ return (
                                         </li>
                                         <li><Link to="/about">About</Link></li>
                                         <li className="has-sub">
-                                            <Link to="/room">our rooms</Link>
+                                            <Link to="#">our rooms</Link>
                                             <ul style={{ display: show1 ? "block" : "none" }}>
-                                                <li> <Link to="/room">Our Rooms</Link></li>
-                                                <li> <Link to="/room-details">Rooms Details</Link></li>
+                                                <li> <Link to="#">Our Rooms</Link></li>
+                                                <li> <Link to="#">Rooms Details</Link></li>
                                             </ul>
                                             <Link to="#" className={`mean-expand ${show1 && "mean-clicked"}`} onClick = {() => setshow1(show1 === true ? false : true)} style={{ fontSize: "18px" }}>{show1 ? "-" : "+" }</Link></li>
                                         <li className="has-sub">
@@ -530,7 +530,7 @@ return (
                                                     <li><Link to="/contact">Book Now</Link></li>
                                                 </ul>
                                             </div>
-                                            <h4><Link to="/room-details">classNameic Balcony Room</Link></h4>    
+                                            <h4><Link to="#">classNameic Balcony Room</Link></h4>    
                                             <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta place ullam ipsum. Morbi imperdiet, orci et dapibus.</p>
                                             <div className="icon">
                                                 <ul>
@@ -562,7 +562,7 @@ return (
                                                     <li><Link to="/contact">Book Now</Link></li>
                                                 </ul>
                                             </div>
-                                            <h4><Link to="/room-details">Superior Double Room</Link></h4>    
+                                            <h4><Link to="#">Superior Double Room</Link></h4>    
                                             <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta ex, in imperdiet tortor feugiat at.</p>
                                             <div className="icon">
                                                 <ul>
@@ -594,7 +594,7 @@ return (
                                                     <li><Link to="/contact">Book Now</Link></li>
                                                 </ul>
                                             </div>
-                                            <h4><Link to="/room-details">Super Balcony Double Room</Link></h4>    
+                                            <h4><Link to="#">Super Balcony Double Room</Link></h4>    
                                             <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta place ullam ipsum. Morbi imperdiet, orci et dapibus.</p>
                                             <div className="icon">
                                                 <ul>
@@ -626,7 +626,7 @@ return (
                                                     <li><Link to="/contact">Book Now</Link></li>
                                                 </ul>
                                             </div>
-                                            <h4><Link to="/room-details">Delux Double Room</Link></h4>    
+                                            <h4><Link to="#">Delux Double Room</Link></h4>    
                                         <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta place ullam ipsum. Morbi imperdiet, orci et dapibus.</p>
                                             <div className="icon">
                                                 <ul>

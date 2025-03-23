@@ -2140,7 +2140,7 @@ border-bottom: none;
 	padding: 0 15px;
 }
 .menu-area {
-	padding-top: 15px;
+	padding-top: 0px;
 	padding-bottom: 5px;
 }
 .slider-bg .video-i.popup-video {
@@ -2276,9 +2276,9 @@ border-bottom: none;
 	padding: 35px 20px 0;
 }
 
-.menu-area {
-	padding: 20px 0;
-}
+/* .menu-area {
+	padding: 0px 0;
+} */
 .responsive {
     float: right;
     display: block;

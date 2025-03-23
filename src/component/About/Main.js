@@ -16,12 +16,12 @@ const Main = () => {
                         <div className="col-xl-12 col-lg-12">
                             <div className="breadcrumb-wrap text-center">
                                 <div className="breadcrumb-title">
-                                    <h2>About</h2>    
+                                    <h2>Despre noi</h2>    
                                     <div className="breadcrumb-wrap">
                                         <nav aria-label="breadcrumb">
                                             <ol className="breadcrumb">
                                                 <li className="breadcrumb-item"><Link to ="/">Home</Link></li>
-                                                <li className="breadcrumb-item active" aria-current="page">About</li>
+                                                <li className="breadcrumb-item active" aria-current="page">Despre noi</li>
                                             </ol>
                                         </nav>
                                     </div>

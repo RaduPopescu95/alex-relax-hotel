@@ -511,7 +511,7 @@ const Main = () => {
                                             <li><Link to="/contact">Book Now</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">classNameic Balcony Room</Link></h4>    
+                                    <h4><Link to="#">classNameic Balcony Room</Link></h4>    
                                     <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta place ullam ipsum. Morbi imperdiet, orci et dapibus.</p>
                                     <div className="icon">
                                         <ul>
@@ -543,7 +543,7 @@ const Main = () => {
                                             <li><Link to="/contact">Book Now</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">Superior Double Room</Link></h4>    
+                                    <h4><Link to="#">Superior Double Room</Link></h4>    
                                     <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta ex, in imperdiet tortor feugiat at.</p>
                                     <div className="icon">
                                         <ul>
@@ -575,7 +575,7 @@ const Main = () => {
                                             <li><Link to="/contact">Book Now</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">Super Balcony Double Room</Link></h4>    
+                                    <h4><Link to="#">Super Balcony Double Room</Link></h4>    
                                     <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta place ullam ipsum. Morbi imperdiet, orci et dapibus.</p>
                                     <div className="icon">
                                         <ul>
@@ -607,7 +607,7 @@ const Main = () => {
                                             <li><Link to="/contact">Book Now</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">Delux Double Room</Link></h4>    
+                                    <h4><Link to="#">Delux Double Room</Link></h4>    
                                    <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta place ullam ipsum. Morbi imperdiet, orci et dapibus.</p>
                                     <div className="icon">
                                         <ul>

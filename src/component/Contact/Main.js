@@ -13,9 +13,9 @@ const Main = () => {
                         <div className="col-xl-12 col-lg-12">
                             <div className="breadcrumb-wrap text-center">
                                 <div className="breadcrumb-title">
-                                    <h2>Contact Us</h2>    
+                                    <h2>Contactează-ne</h2>    
                                     <div className="breadcrumb-wrap">
-                                        <nav aria-label="breadcrumb">
+                                    <nav aria-label="breadcrumb">
                                             <ol className="breadcrumb">
                                                 <li className="breadcrumb-item"><Link to="/">Hotel</Link></li>
                                                 <li className="breadcrumb-item active" aria-current="page">Contact</li>

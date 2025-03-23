@@ -17,7 +17,7 @@ const Main = () => {
         'assets/img/gallery/protfolio-img07.png',
         'assets/img/gallery/protfolio-img08.png',
         'assets/img/gallery/protfolio-img09.png',
-        'assets/img/gallery/protfolio-img10.png',
+      
 	])
 
 
